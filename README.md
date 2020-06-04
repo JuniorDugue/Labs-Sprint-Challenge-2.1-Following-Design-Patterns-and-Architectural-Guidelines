@@ -45,7 +45,7 @@ Describe your process of working with the engineering and design teams.
 
 Now that you've been through or are nearly completing a full product release cycle, we'd like to know how your plan changed.
 
-**Please fill out if, during this release canvas, you deviated from your original plan**
+**Please fill out if, during this release canvas, you deviated significantly from your original plan. Check with your TL.**
 
 [Here is a link to the **Diff Entry**](DIFFENTRY.md)
 
